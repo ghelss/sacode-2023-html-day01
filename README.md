@@ -2,7 +2,7 @@
 Pertemuan Day 01:Belajar Git&amp;Github
 
 ## Website Sacode
-https: // sacode.web.id/
+https://sacode.web.id/
 
 ## Instagram Sacode 
-https: //instargram.com/sacode.official
+https://instargram.com/sacode.official
