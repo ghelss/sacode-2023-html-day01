@@ -8,5 +8,6 @@ https://sacode.web.id/
 https://instargram.com/sacode.official
 
 ## Demo project day 01
-https://ghelss.github.io/sacode-2023-html-day01/ ini alamt profile:
+https://ghelss.github.io/sacode-2023-html-day01/ 
+ini alamt profile:https://ghelss.github.io/sacode-2023-html-day01/profile.html
 
